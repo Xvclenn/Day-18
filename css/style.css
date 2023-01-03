@@ -1,0 +1,13 @@
+h1 {
+    padding: 50px;
+    margin-top: 50px;
+    height: 50vh;
+    text-align: center;
+    background-color: teal;
+    color: rgb(32, 33, 36);
+}
+
+body {
+    background-color: rgb(32, 33, 36);
+    margin: 30px;
+}
